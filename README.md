@@ -13,3 +13,5 @@ Just clone or download this sample application and open its folder with VSCode.
 
 ## Author
 jjos
+
+Donation address: BURST-JJQS-MMA4-GHB4-4ZNZU
