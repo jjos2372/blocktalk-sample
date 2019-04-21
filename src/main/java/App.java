@@ -14,12 +14,13 @@ public class App extends Contract {
     @Override
     public void txReceived() {
         // In this sample we simply send back funds received (minus activation fee)
-        sendAmount(getCurrentTx().getAmount(), getCurrentTx().getSenderAddress());
+        sendAmount(getCurrentTx().getAmount(),
+            getCurrentTx().getSenderAddress());
     }
 
     /**
      * The main function is for debugging purposes only it will not be
-     * compiled to AT bytecode
+     * compiled to AT bytecode.
      */
     public static void main(String[] args) {
         new EmulatorWindow(App.class);

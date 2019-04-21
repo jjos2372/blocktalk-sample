@@ -21,6 +21,10 @@ dependencies {
     implementation 'com.github.jjos2372:blocktalk:-SNAPSHOT'
 }
 
+// If we want to refresh our libraries (get a new snapshot)
+configurations.all {
+    // resolutionStrategy.cacheChangingModulesFor 0, 'seconds'
+}
+
 // Define the main class for the application
 mainClassName = 'App'
-
