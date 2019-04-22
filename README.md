@@ -2,7 +2,7 @@
 
 Sample smart contract for [BlockTalk](https://github.com/jjos2372/blocktalk).
 
-[![Simple hello world contract](http://img.youtube.com/vi/5lxkzrpAEpA/0.jpg)](https://www.youtube.com/watch?v=5lxkzrpAEpA "BlockTalk sample")
+[![Simple hello world contract](http://img.youtube.com/vi/XcN5WxqjjGw/0.jpg)](https://www.youtube.com/watch?v=XcN5WxqjjGw "BlockTalk sample")
 
 This is the easiest way to start with BlockTalk.
 This sample application is actually a [VSCode Java Application](https://code.visualstudio.com/docs/languages/java).
