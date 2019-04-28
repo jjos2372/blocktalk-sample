@@ -1,5 +1,5 @@
 import bt.Contract;
-import bt.EmulatorWindow;
+import bt.ui.EmulatorWindow;
 
 /**
  * Modify this class for your new BlockTalk smart contract. 
