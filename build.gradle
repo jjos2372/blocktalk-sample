@@ -18,7 +18,7 @@ allprojects {
 }
 
 dependencies {
-    implementation 'com.github.jjos2372:blocktalk:-SNAPSHOT'
+    implementation 'com.github.jjos2372:blocktalk:master-SNAPSHOT'
 }
 
 // If we want to refresh our libraries (get a new snapshot)
